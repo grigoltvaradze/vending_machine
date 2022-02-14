@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\vending-machine.exe
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\vending-machine.deps.json
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\vending-machine.runtimeconfig.json
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\vending-machine.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\vending-machine.dll
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\ref\vending-machine.dll
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\bin\Debug\net5.0\vending-machine.pdb
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.dll
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\ref\vending-machine.dll
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.pdb
+C:\Users\ASUS\source\repos\OLAcademy01\vending-machine\vending-machine\obj\Debug\net5.0\vending-machine.genruntimeconfig.cache
